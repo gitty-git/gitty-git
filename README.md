@@ -1,4 +1,4 @@
-👋 How do you do? I’m @gitty-git.
+How do you do? I’m @gitty-git.
 
 <!---
 gitty-git/gitty-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
